@@ -59,16 +59,6 @@ Capturas de pantalla
 ![alt text](Capturas/FormularioVacioProductoNuevo.png)
 ![alt text](Capturas/ListaProductos.png)
 
-Lista de productos
-https://screenshots/lista.png
-
-Formulario de creación
-https://screenshots/nuevo.png
-
-Formulario de edición
-https://screenshots/editar.png
-
-
 
 De esta forma, si el usuario recarga la página después de guardar, no se reenvía el formulario ni se duplican los registros.
 
